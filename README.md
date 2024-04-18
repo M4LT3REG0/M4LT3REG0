@@ -29,7 +29,7 @@ Me apasiona la ciberseguridad y disfruto explorando el mundo del malware, los cr
     <h1>Conocimiento </h1>
     <div align="left">
         <p>
-            Ha dia de hoy estoy interesado en el Malware tanto la parte de analisis como la de desarrollado y ademas estoy                dando mis primeros pasos en el mundo blockchain.
+            A dia de hoy estoy interesado en el Malware tanto la parte de analisis como la de desarrollado y ademas estoy                dando mis primeros pasos en el mundo blockchain.
         </p>
         <p>
         </p>
