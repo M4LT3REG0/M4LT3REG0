@@ -8,7 +8,7 @@
 
 ## Sobre mí
 
-Me apasiona la ciberseguridad y disfruto explorando el mundo del malware, los cracks, el pentesting y el trabajo en red team. Actualmente trabajo en [Hispasec](https://www.hispasec.com/), donde tengo la oportunidad de seguir aprendiendo y creciendo en este emocionante campo.
+Me apasiona la ciberseguridad y disfruto explorando el mundo del malware, los cracks, el pentesting y el trabajo en red team. Actualmente trabajo en [wisesecurity](https://www.wisesecurity.com/), donde tengo la oportunidad de seguir aprendiendo y creciendo en este emocionante campo.
 
 [![Visitas](https://komarev.com/ghpvc/?username=M4LT3REG0)](https://github.com/M4LT3REG0)
 
