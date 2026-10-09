@@ -1,6 +1,6 @@
 <!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1410,50:10251c,100:0e2230&height=200&section=header&text=M4LT3REG0&fontColor=9FEF00&fontSize=68&fontAlignY=34&desc=Cyber%20Threat%20Intelligence%20%C2%B7%20Red%20Team%20%C2%B7%20Blockchain%20Security&descAlignY=56&descSize=16&descColor=cdd9e5" alt="M4LT3REG0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1410,50:10251c,100:0e2230&height=200&section=header&text=M4LT3REG0&fontColor=9FEF00&fontSize=68&fontAlignY=34&desc=Cyber%20Threat%20Intelligence%20%C2%B7%20%20%C2%B7%20Blockchain%20Security&descAlignY=56&descSize=16&descColor=cdd9e5" alt="M4LT3REG0"/>
 </p>
 
 <p align="center">
