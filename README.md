@@ -1,7 +1,11 @@
-
-<!-- Banner -->
+[README2.md](https://github.com/user-attachments/files/33269556/README2.md
+<!-- ====== BANNER ====== -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1410,50:10251c,100:0e2230&height=180&section=header&text=M4LT3REG0&fontColor=9FEF00&fontSize=64&fontAlignY=34&desc=Cyber%20Threat%20Intelligence%20%C2%B7%20Red%20Team%20%C2%B7%20Blockchain%20Security&descAlignY=56&descSize=16&descColor=cdd9e5" alt="M4LT3REG0"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1410,50:10251c,100:0e2230&height=200&section=header&text=M4LT3REG0&fontColor=9FEF00&fontSize=68&fontAlignY=34&desc=Cyber%20Threat%20Intelligence%20%C2%B7%20Red%20Team%20%C2%B7%20Blockchain%20Security&descAlignY=56&descSize=16&descColor=cdd9e5" alt="M4LT3REG0"/>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=9FEF00&center=true&vCenter=true&width=620&lines=Malware+Analysis+%26+Development;Reverse+Engineering;Red+Team+Operations;Smart+Contract+Security" alt="typing"/>
 </p>
 
 <p align="center">
@@ -11,6 +15,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/lang-EN%20%7C%20ES-9FEF00?style=for-the-badge&labelColor=161b22" alt="languages"/>
   <img src="https://komarev.com/ghpvc/?username=M4LT3REG0&style=for-the-badge&color=9FEF00&label=PROFILE+VIEWS" alt="views"/>
+  <img src="https://img.shields.io/badge/based-Spain-9FEF00?style=for-the-badge&labelColor=161b22" alt="location"/>
 </p>
 
 ---
@@ -23,9 +28,22 @@ role:        Cyber Threat Intelligence Analyst
 focus:       [ Malware, Reverse Engineering, Red Team, Blockchain Security ]
 learning:    [ Solidity, Foundry, Smart Contract Auditing ]
 platforms:   [ TryHackMe, Hack The Box, HTB Academy, TCM Security ]
+mindset:     think like an attacker, defend like one too
 ```
 
-CTI analyst with a taste for offensive security. I pair malware analysis and red teaming with my newest hunting ground: **smart-contract security** and on-chain investigation.
+CTI analyst with a taste for offensive security. I pair malware analysis and red teaming with my newest hunting ground: **smart-contract security** and on-chain investigation — reading the chain the way an attacker would, and building the tooling to trace them.
+
+---
+
+## `>> Currently`
+
+```diff
++ Building a 5-repo Web3 security portfolio (Solidity + Foundry)
++ Auditing vulnerable contracts: reentrancy, access control, oracle manipulation
++ Practicing on Ethernaut & Damn Vulnerable DeFi
++ Hunting on TryHackMe / Hack The Box
+! Open to offensive-security & smart-contract roles
+```
 
 ---
 
@@ -33,7 +51,7 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
-| **[smart-contract-security](https://github.com/M4LT3REG0)** | Vulnerability lab (reentrancy, access control, oracle manipulation) with working exploits and their fixes, audit-style. | `Solidity` `Foundry` |
+| **[smart-contract-security](https://github.com/M4LT3REG0)** | Vulnerability lab (reentrancy, access control, oracle manipulation) with working exploits and their fixes, audit-style. | `Solidity` `Foundry` `Slither` |
 | **[defi-protocols](https://github.com/M4LT3REG0)** | DeFi building blocks: swaps, liquidity pools, lending/borrowing, yield farming and oracles. | `Solidity` `Foundry` |
 | **[nft-suite](https://github.com/M4LT3REG0)** | ERC-721 collection with IPFS metadata, a marketplace and a soulbound certificate. | `Solidity` `IPFS` |
 | **[solidity-foundations](https://github.com/M4LT3REG0)** | Fundamentals: ERC-20, cross-contract calls and a decentralized bank using the CEI pattern. | `Solidity` `Remix` |
@@ -45,8 +63,26 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
 ## `# GitHub Stats`
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=M4LT3REG0&show_icons=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4LT3REG0&layout=compact&hide_border=true&title_color=9FEF00&text_color=c9d1d9&bg_color=0d1117" alt="top langs"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=M4LT3REG0&show_icons=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=M4LT3REG0&hide_border=true&background=0D1117&stroke=1f3329&ring=9FEF00&fire=9FEF00&currStreakLabel=9FEF00&sideLabels=c9d1d9&dates=8b949e&currStreakNum=c9d1d9&sideNums=c9d1d9" alt="streak"/>
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4LT3REG0&layout=compact&langs_count=8&hide_border=true&title_color=9FEF00&text_color=c9d1d9&bg_color=0d1117" alt="top langs"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=M4LT3REG0&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
+</p>
+
+<!-- Contribution activity graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4LT3REG0&bg_color=0d1117&color=9FEF00&line=9FEF00&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+</p>
+
+<!-- Contribution snake (requires the snake GitHub Action; see note at the bottom) -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/M4LT3REG0/M4LT3REG0/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 </p>
 
 ---
@@ -79,6 +115,7 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
       <td>
         <img src="https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white"/>
         <img src="https://img.shields.io/badge/Foundry-2A2A2A?style=flat&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Etherscan-21325B?style=flat&logo=ethereum&logoColor=white"/>
       </td>
     </tr>
     <tr>
@@ -166,6 +203,23 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
 
 ---
 
+## `-> Learning Path`
+
+```mermaid
+graph LR
+    A[CTI / Red Team] --> B[Blockchain Fundamentals]
+    B --> C[Solidity + Foundry]
+    C --> D[Smart Contract Security]
+    D --> E[On-chain Investigation]
+    D --> F[Audit & Bug Bounty]
+    style A fill:#11201a,stroke:#9fef00,color:#e6edf3
+    style D fill:#11201a,stroke:#9fef00,color:#9fef00
+    style E fill:#11201a,stroke:#1f3329,color:#8fa399
+    style F fill:#11201a,stroke:#1f3329,color:#8fa399
+```
+
+---
+
 ## `@ Contact`
 
 <p align="center">
@@ -175,6 +229,9 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
   <a href="https://www.youtube.com/watch?v=2zw5zvBVoqw">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
   </a>
+  <a href="https://github.com/M4LT3REG0">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 </p>
 
 <p align="center"><sub>Thanks for stopping by the nest.</sub></p>
@@ -182,3 +239,16 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e2230,50:10251c,100:0a1410&height=90&section=footer"/>
 </p>
+
+<!--
+================================================================
+ NOTES (read once, then delete this block):
+ 1. The "snake" image needs a free GitHub Action. In your repo:
+    Settings -> Actions must be enabled, then add the workflow
+    Platane/snk (search "github contribution snake action").
+    Until you set it up, that one image will show broken — delete
+    the snake <p> block if you don't want to set it up.
+ 2. Everything else (banner, badges, stats, streak, trophies,
+    activity graph, typing, mermaid graph) works out of the box.
+================================================================
+-->
