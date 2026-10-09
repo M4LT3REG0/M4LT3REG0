@@ -19,7 +19,7 @@
 
 ---
 <h2>
-  <code>~$ <span>whoami</span></code>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=999999&color=9FEF00&vCenter=true&width=180&lines=%7E%24+whoami" alt="~$ whoami" />
 </h2>
 
 ## `~$ whoami`
