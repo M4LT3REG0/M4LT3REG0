@@ -4,7 +4,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=9FEF00&center=true&vCenter=true&width=620&lines=Malware+Analysis+%26+Development;Reverse+Engineering;Red+Team+Operations;Smart+Contract+Security" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=700&color=9FEF00&center=true&vCenter=true&width=620&lines=Malware+Analysis+%26+Development;Reverse+Engineering;On-Chain+Investigations;Smart+Contract+Security+Research" alt="typing"/>
 </p>
 
 <p align="center">
