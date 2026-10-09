@@ -20,7 +20,6 @@
 ---
 
 ## `~$ whoami`
-## <code>~$ <span style="color:#9FEF00">whoami</span></code>
 ```yaml
 name:        Antonio Gómez Domínguez
 role:        Cyber Threat Intelligence Analyst
