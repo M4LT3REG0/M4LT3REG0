@@ -40,7 +40,7 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
 + Building a 5-repo Web3 security portfolio (Solidity + Foundry)
 + Auditing vulnerable contracts: reentrancy, access control, oracle manipulation
 + Practicing on Ethernaut & Damn Vulnerable DeFi
-+ Hunting on TryHackMe / Hack The Box
+! Hunting Financing threats Actors
 ! Open to offensive-security & smart-contract roles
 ```
 
