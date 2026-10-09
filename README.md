@@ -70,16 +70,6 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M4LT3REG0&layout=compact&langs_count=8&hide_border=true&title_color=9FEF00&text_color=c9d1d9&bg_color=0d1117" alt="top langs"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=M4LT3REG0&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
-</p>
-
-
-<!-- Contribution snake (requires the snake GitHub Action; see note at the bottom) -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/M4LT3REG0/M4LT3REG0/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
-</p>
-
 ---
 
 ## `:: Tech Stack`
