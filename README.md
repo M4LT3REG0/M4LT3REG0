@@ -74,10 +74,6 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
   <img src="https://github-profile-trophy.vercel.app/?username=M4LT3REG0&theme=matrix&no-frame=true&no-bg=true&margin-w=6&column=7" alt="trophies"/>
 </p>
 
-<!-- Contribution activity graph -->
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=M4LT3REG0&bg_color=0d1117&color=9FEF00&line=9FEF00&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
-</p>
 
 <!-- Contribution snake (requires the snake GitHub Action; see note at the bottom) -->
 <p align="center">
