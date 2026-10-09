@@ -24,9 +24,9 @@
 ```yaml
 name:        Antonio Gómez Domínguez
 role:        Cyber Threat Intelligence Analyst
-focus:       [ Malware, Reverse Engineering, Red Team, Blockchain Security Research, threat Actors Activity]
-learning:    [ Solidity, Foundry, Smart Contract Auditing ]
-platforms:   [ TryHackMe, Hack The Box, HTB Academy, TCM Security ]
+focus:       [ Malware, Reverse Engineering,Threat Intelligence, Blockchain Security Research, threat Actors Activity]
+learning:    [ Solidity, Foundry, Smart Contract Auditing, POC, Vulnerability ]
+platforms:   [ TryHackMe, Hack The Box, HTB Academy, TCM Security, Cyfrin ]
 mindset:     think like an attacker, defend like one too
 ```
 
