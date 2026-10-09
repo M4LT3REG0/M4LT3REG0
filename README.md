@@ -1,4 +1,3 @@
-[README2.md](https://github.com/user-attachments/files/33269556/README2.md
 <!-- ====== BANNER ====== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a1410,50:10251c,100:0e2230&height=200&section=header&text=M4LT3REG0&fontColor=9FEF00&fontSize=68&fontAlignY=34&desc=Cyber%20Threat%20Intelligence%20%C2%B7%20Red%20Team%20%C2%B7%20Blockchain%20Security&descAlignY=56&descSize=16&descColor=cdd9e5" alt="M4LT3REG0"/>
@@ -202,21 +201,6 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
 </table>
 
 ---
-
-## `-> Learning Path`
-
-```mermaid
-graph LR
-    A[CTI / Red Team] --> B[Blockchain Fundamentals]
-    B --> C[Solidity + Foundry]
-    C --> D[Smart Contract Security]
-    D --> E[On-chain Investigation]
-    D --> F[Audit & Bug Bounty]
-    style A fill:#11201a,stroke:#9fef00,color:#e6edf3
-    style D fill:#11201a,stroke:#9fef00,color:#9fef00
-    style E fill:#11201a,stroke:#1f3329,color:#8fa399
-    style F fill:#11201a,stroke:#1f3329,color:#8fa399
-```
 
 ---
 
