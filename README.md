@@ -21,9 +21,6 @@
 <h2>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=999999&color=9FEF00&vCenter=true&width=180&lines=%7E%24+whoami" alt="~$ whoami" />
 </h2>
-
-## `~$ whoami`
-
 ```yaml
 name:        Antonio Gómez Domínguez
 role:        Cyber Threat Intelligence Analyst
@@ -36,9 +33,9 @@ mindset:     think like an attacker, defend like one too
 CTI analyst with a taste for offensive security. I pair malware analysis and red teaming with my newest hunting ground: **smart-contract security** and on-chain investigation — reading the chain the way an attacker would, and building the tooling to trace them.
 
 ---
-
-## `>> Currently`
-
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=999999&color=9FEF00&vCenter=true&width=250&lines=%3E%3E%20Currently" alt=">> Currently" />
+</h2>
 ```diff
 + Building a 5-repo Web3 security portfolio (Solidity + Foundry)
 + Auditing vulnerable contracts: reentrancy, access control, oracle manipulation
@@ -48,8 +45,9 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
 ```
 
 ---
-
-## `> Featured Projects`
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=999999&color=9FEF00&vCenter=true&width=300&lines=%3E%20Featured+Projects" alt="> Featured Projects" />
+</h2>
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |
@@ -62,7 +60,9 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
 
 ---
 
-## `# GitHub Stats`
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=999999&color=9FEF00&vCenter=true&width=250&lines=%23%20GitHub+Stats" alt="# GitHub Stats" />
+</h2>
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=M4LT3REG0&show_icons=true&count_private=true&hide_border=true&title_color=9FEF00&icon_color=9FEF00&text_color=c9d1d9&bg_color=0d1117" alt="stats"/>
@@ -75,7 +75,9 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
 
 ---
 
-## `:: Tech Stack`
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=999999&color=9FEF00&vCenter=true&width=250&lines=%3A%3A%20Tech+Stack" alt=":: Tech Stack" />
+</h2>
 
 <table>
   <thead>
@@ -193,7 +195,9 @@ CTI analyst with a taste for offensive security. I pair malware analysis and red
 
 ---
 
-## `@ Contact`
+<h2>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=1&pause=999999&color=9FEF00&vCenter=true&width=200&lines=%40%20Contact" alt="@ Contact" />
+</h2>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/antonio-g%C3%B3mez-dom%C3%ADnguez-2146ab232/">
